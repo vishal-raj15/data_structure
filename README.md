@@ -1,4 +1,1 @@
-algorithm for binary search and linl list implementation
-:w
-
-
+basic data structure algorithm in cpp
