@@ -1,1 +1,1 @@
-basic data structure algorithm in cpp
+basic data structure algorithm implementation in cpp
